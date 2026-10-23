@@ -1,0 +1,3 @@
+kafi
+duckdb
+typesafe-sdk   # optional: nur für Jev live (Env: TYPESAFE_API_KEY)
