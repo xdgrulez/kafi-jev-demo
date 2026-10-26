@@ -1,3 +1,3 @@
 kafi
 duckdb
-typesafe-sdk   # optional: nur für Jev live (Env: TYPESAFE_API_KEY)
+typesafe-sdk   # optional: only for live Jev (env: TYPESAFE_API_KEY)

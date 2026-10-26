@@ -54,7 +54,7 @@ class RealJev:
 
     def __call__(self, state):
         resp = self.client.system_one(state=state, questions=self.questions)
-        print(resp)
+        # print(resp)
         return resp.choices["ursache"].choice, resp.nouls["gefaehrdet"].noul
 
 
